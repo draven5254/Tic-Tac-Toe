@@ -1,5 +1,6 @@
 "Use Strict";
 
+// Get documents classes/id's from html
 let playerText = document.getElementById("playerText");
 let gameBoard = document.querySelector(".board");
 
